@@ -1,0 +1,30 @@
+{
+  "name": "@rafw87/eslint-config-react-typescript",
+  "version": "0.0.0",
+  "description": "My common Eslint configuration for React + Typescript project",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/rafw87/eslint-config-react-typescript"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "2.3.0",
+    "eslint-config-airbnb-typescript": "^5.0.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-react": "7.14.3",
+    "eslint-plugin-react-hooks": "1.7.0"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "typescript": "*"
+  },
+  "peerDependencies": {
+    "eslint": "*",
+    "typescript": "*"
+  }
+}
