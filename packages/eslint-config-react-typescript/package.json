@@ -1,6 +1,6 @@
 {
   "name": "@rafw87/eslint-config-react-typescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My common Eslint configuration for React + Typescript project",
   "repository": {
     "type": "git",
