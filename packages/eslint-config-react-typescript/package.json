@@ -1,10 +1,10 @@
 {
   "name": "@rafw87/eslint-config-react-typescript",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My common Eslint configuration for React + Typescript project",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/rafw87/eslint-config-react-typescript"
+    "type": "git",
+    "url": "https://github.com/rafw87/eslint-config-react-typescript"
   },
   "main": "index.js",
   "license": "MIT",
