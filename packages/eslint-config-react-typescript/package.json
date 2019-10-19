@@ -4,7 +4,7 @@
   "description": "My common Eslint configuration for React + Typescript project",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rafw87/eslint-config-react-typescript"
+    "url": "https://github.com/rafw87/eslint-configs/packages/eslint-config-react-typescript"
   },
   "main": "index.js",
   "license": "MIT",
