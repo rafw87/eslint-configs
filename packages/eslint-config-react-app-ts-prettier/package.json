@@ -1,6 +1,6 @@
 {
   "name": "@rafw87/eslint-config-react-app-ts-prettier",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My common Eslint configuration for Create React App + Typescript + Prettier project",
   "homepage": "https://github.com/rafw87/eslint-configs/tree/master/packages/eslint-config-react-app-ts-prettier",
   "repository": {
