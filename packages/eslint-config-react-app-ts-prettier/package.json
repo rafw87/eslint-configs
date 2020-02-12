@@ -1,0 +1,30 @@
+{
+  "name": "@rafw87/eslint-config-react-app-ts-prettier",
+  "version": "0.0.0",
+  "description": "My common Eslint configuration for Create React App + Typescript + Prettier project",
+  "homepage": "https://github.com/rafw87/eslint-configs/tree/master/packages/eslint-config-react-app-ts-prettier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafw87/eslint-configs.git",
+    "directory": "packages/eslint-config-react-app-ts-prettier"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-typescript": "^5.0.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-config-react-app": "^5.2.0",
+    "eslint-plugin-prettier": "^3.1.2"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "typescript": "*"
+  },
+  "peerDependencies": {
+    "eslint": "*",
+    "typescript": "*"
+  }
+}
